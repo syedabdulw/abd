@@ -1,0 +1,14 @@
+
+.navbar img{
+    filter: grayscale(1) brightness(0) !important;
+
+}
+.nav-option >span:hover{
+    cursor: pointer !important;
+    text-decoration:underline;
+    
+
+}
+.nav-option >span{
+    color: white;
+}
